@@ -26,6 +26,8 @@ class GlobalController extends Controller
         foreach($settings as $setting){
             $val[$setting->key] = $setting->value;
             $val[$setting->key.'_ar'] = $setting->value_ar;
+
+           
         }
         return $val;
     }

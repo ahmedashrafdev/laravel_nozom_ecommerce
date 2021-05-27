@@ -21,21 +21,21 @@ class SettingSeeder extends Seeder
             ],
             [
                 'key' => 'address',
-                'value' => '3 Ibrahem Soliman from Shehab St, Mohndssen, Giza',
-                'value_ar' => '3 ابراهيم سليمان , متفرع من شارع شهاب , المهندسين , الجيزة',
+                'value' => 'elrady market Ahmed okasha, El tagamo3 1, First New Cairo',
+                'value_ar' => 'سوق الراضي أحمد عكاشة ، التجمع الأول القاهرة الجديدة',
                 'type' => 'text',
             ],
             [
                 'key' => 'phone',
-                'value_ar' => '0123456789',
+                'value_ar' => '+201116522242',
                 'type' => 'text',
-                'value' => ' 0123456789 '
+                'value' => ' +201116522242 '
             ],
             [
                 'key' => 'email',
-                'value_ar' => 'info@elnozom.com',
+                'value_ar' => 'alradygomlamarket@gmail.com',
                 'type' => 'email',
-                'value' => ' info@elnozom.com'
+                'value' => ' alradygomlamarket@gmail.com'
             ],
             [
                 'key' => 'about',
@@ -45,16 +45,9 @@ class SettingSeeder extends Seeder
             ],
             [
                 'key' => 'facebook',
-                'value_ar' => 'https://www.facebook.com/ElNozomSystems/',
+                'value_ar' => 'https://www.facebook.com/ElradyMarket/',
                 'type' => 'text',
-                'value' => 'https://www.facebook.com/ElNozomSystems/'
-            ],
-            [
-                'key' => 'instagram',
-                'value_ar' => 'https://www.instagram.com/elnozomeg/',
-                'type' => 'text',
-                'value' => 'https://www.instagram.com/elnozomeg/
-                '
+                'value' => 'https://www.facebook.com/ElradyMarket/'
             ],
 
         ];
